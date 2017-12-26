@@ -1,0 +1,50 @@
+<resources>
+    <!-- detail -->
+
+    <dimen name="detail_body_text_size">16sp</dimen>
+    <dimen name="details_text_margin">25dp</dimen>
+
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.1</item>
+
+    <dimen name="fab_elevation">2dp</dimen>
+    <dimen name="fab_press_translation_z">6dp</dimen>
+
+    <dimen name="fab_margin">24dp</dimen>
+
+    <dimen name="app_bar_height">150dp</dimen>
+    <dimen name="app_bar_elevation">4dp</dimen>
+
+    <dimen name="fab_bar_elevation">6dp</dimen>
+
+
+
+    <dimen name="dyn_image_height">150dp</dimen>
+    <dimen name="std_textview_padding">16dp</dimen>
+
+    <dimen name="text1_size">15dp</dimen>
+    <dimen name="text2_size">11dp</dimen>
+
+    <dimen name="cardview_padding">4dp</dimen>
+
+    <dimen name="floating_bar_size">64dp</dimen>
+    <dimen name="detail_title_text_size">20sp</dimen>
+    <dimen name="details_linear_ll_height">80dp</dimen>
+    <dimen name="detail_imageview_height">250dp</dimen>
+    <dimen name="fab_margin_top">290dp</dimen>
+
+
+
+    <dimen name="title_text_size">25sp</dimen>
+    <dimen name="date_text_size">16dp</dimen>
+    <dimen name="picture_height">190dp</dimen>
+    <dimen name="textview1_margin_top">110dp</dimen>
+    <dimen name="textview2_margin_top">150dp</dimen>
+
+    <dimen name="linear_ll_top_bottom_padding">20dp</dimen>
+    <dimen name="linear_ll_right_left_padding">16dp</dimen>
+
+
+
+
+
+</resources>
