@@ -1,6 +1,6 @@
-### Udacity Make your app material project
+## Udacity Make your app material project
 
-#### Project Instructions
+### Project Instructions
 You will improve an app for this project:
 
 - XYZ Reader: A mock RSS feed reader featuring banner photos and headlines. Download the code here.
@@ -8,7 +8,7 @@ The app is currently functional, and work in most cases for most users.
 
 Your job will be to take the user feedback in the UI Review node, and implement changes that will improve the UI and make it conform to Material Design.
 
-#### Required Tasks
+### Required Tasks
 - Download a zip file of the app.
 - Read the UI Review in the next node.
 - Spend time exploring the current state of the app, looking for ways it could be improved. The app will need multiple improvements. Be sure to look specifically at issues called out in the UI Review.
